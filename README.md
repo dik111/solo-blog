@@ -10,8 +10,8 @@ dik111 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.yuweizhan.cn/my-github-repos)
-* [世界，你好！](http://www.yuweizhan.cn/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.yuweizhan.cn/my-github-repos)
+* [世界，你好！](https://www.yuweizhan.cn/hello-solo)
 
 
 
