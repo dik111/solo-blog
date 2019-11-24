@@ -10,7 +10,10 @@ yuwei的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.yuweizhan.cn/my-github-repos)
+* [nginx学习笔记04-负载均衡](http://www.yuweizhan.cn/articles/2019/11/24/1574592333970.html)
+* [nginx学习笔记03-反向代理](http://www.yuweizhan.cn/articles/2019/11/24/1574579868131.html)
+* [nginx学习笔记02-nginx配置文件](http://www.yuweizhan.cn/articles/2019/11/24/1574571720335.html)
+* [nginx学习笔记01-nginx安装以及常用命令](http://www.yuweizhan.cn/articles/2019/11/23/1574521042004.html)
 * [世界，你好！](http://www.yuweizhan.cn/hello-solo)
 * [大数据入门09-HDFS总结](http://www.yuweizhan.cn/articles/2019/01/15/1573384294325.html)
 * [大数据入门08-HIVE常用DDL操作](http://www.yuweizhan.cn/articles/2019/01/05/1573384293260.html)
@@ -26,14 +29,13 @@ yuwei的个人博客
 * [机器学习-决策树&随机森林算法笔记与实战](http://www.yuweizhan.cn/articles/2018/10/15/1573384292605.html)
 * [Flask入门-搭建图书管理项目](http://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
 * [django入门-搭建字数统计网站](http://www.yuweizhan.cn/articles/2018/09/02/1573384289968.html)
-* [李宏毅机器学习笔记-4 Brief Introduction of Deep Learning；深度学习简介](http://www.yuweizhan.cn/articles/2018/07/31/1573384291889.html)
 * [李宏毅机器学习笔记-3 Classification,Logistic Regression](http://www.yuweizhan.cn/articles/2018/07/27/1573384296771.html)
-* [梯度下降算法实战](http://www.yuweizhan.cn/articles/2018/06/30/1573384291335.html)
-* [李宏毅机器学习笔记-2 （Regression：Case Study ；回归：案例研究）](http://www.yuweizhan.cn/articles/2018/06/27/1573384297509.html)
 
 ### 热门
 
+* [李宏毅机器学习笔记-2 （Regression：Case Study ；回归：案例研究）](http://www.yuweizhan.cn/articles/2018/06/27/1573384297509.html)
 * [Pandas入门简介](http://www.yuweizhan.cn/articles/2017/10/26/1573384289236.html)
+* [梯度下降算法实战](http://www.yuweizhan.cn/articles/2018/06/30/1573384291335.html)
 
 
 
