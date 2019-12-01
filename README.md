@@ -5,11 +5,13 @@ yuwei的个人博客
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="yuwei的个人博客" target="_blank" href="https://github.com/dik111/solo-blog"><img src="https://img.shields.io/github/last-commit/dik111/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/dik111/solo-blog"><img src="https://img.shields.io/github/repo-size/dik111/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/dik111/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/dik111/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [Vue.js学习笔记02-Vue模板语法1](http://www.yuweizhan.cn/articles/2019/12/01/1575167218892.html)
+* [Vue.js学习笔记01-Vue基本使用](http://www.yuweizhan.cn/articles/2019/11/30/1575128399514.html)
 * [nginx学习笔记04-负载均衡](http://www.yuweizhan.cn/articles/2019/11/24/1574592333970.html)
 * [nginx学习笔记03-反向代理](http://www.yuweizhan.cn/articles/2019/11/24/1574579868131.html)
 * [nginx学习笔记02-nginx配置文件](http://www.yuweizhan.cn/articles/2019/11/24/1574571720335.html)
@@ -28,17 +30,17 @@ yuwei的个人博客
 * [电力消耗预测](http://www.yuweizhan.cn/articles/2018/10/31/1573384295032.html)
 * [机器学习-决策树&随机森林算法笔记与实战](http://www.yuweizhan.cn/articles/2018/10/15/1573384292605.html)
 * [Flask入门-搭建图书管理项目](http://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
-* [django入门-搭建字数统计网站](http://www.yuweizhan.cn/articles/2018/09/02/1573384289968.html)
-* [李宏毅机器学习笔记-3 Classification,Logistic Regression](http://www.yuweizhan.cn/articles/2018/07/27/1573384296771.html)
 
 ### 热门
 
 * [李宏毅机器学习笔记-2 （Regression：Case Study ；回归：案例研究）](http://www.yuweizhan.cn/articles/2018/06/27/1573384297509.html)
 * [Pandas入门简介](http://www.yuweizhan.cn/articles/2017/10/26/1573384289236.html)
+* [django入门-搭建字数统计网站](http://www.yuweizhan.cn/articles/2018/09/02/1573384289968.html)
 * [梯度下降算法实战](http://www.yuweizhan.cn/articles/2018/06/30/1573384291335.html)
+* [李宏毅机器学习笔记-3 Classification,Logistic Regression](http://www.yuweizhan.cn/articles/2018/07/27/1573384296771.html)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
