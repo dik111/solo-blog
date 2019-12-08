@@ -10,6 +10,7 @@ yuwei的个人博客
 
 ### 最新
 
+* [Vue.js学习笔记03-Vue模板语法2](http://www.yuweizhan.cn/articles/2019/12/08/1575783437620.html)
 * [Vue.js学习笔记02-Vue模板语法1](http://www.yuweizhan.cn/articles/2019/12/01/1575167218892.html)
 * [Vue.js学习笔记01-Vue基本使用](http://www.yuweizhan.cn/articles/2019/11/30/1575128399514.html)
 * [nginx学习笔记04-负载均衡](http://www.yuweizhan.cn/articles/2019/11/24/1574592333970.html)
@@ -29,11 +30,11 @@ yuwei的个人博客
 * [CS224n笔记 自然语言处理与深度学习简介](http://www.yuweizhan.cn/articles/2018/11/11/1573384296036.html)
 * [电力消耗预测](http://www.yuweizhan.cn/articles/2018/10/31/1573384295032.html)
 * [机器学习-决策树&随机森林算法笔记与实战](http://www.yuweizhan.cn/articles/2018/10/15/1573384292605.html)
-* [Flask入门-搭建图书管理项目](http://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
 
 ### 热门
 
 * [李宏毅机器学习笔记-2 （Regression：Case Study ；回归：案例研究）](http://www.yuweizhan.cn/articles/2018/06/27/1573384297509.html)
+* [Flask入门-搭建图书管理项目](http://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
 * [Pandas入门简介](http://www.yuweizhan.cn/articles/2017/10/26/1573384289236.html)
 * [django入门-搭建字数统计网站](http://www.yuweizhan.cn/articles/2018/09/02/1573384289968.html)
 * [梯度下降算法实战](http://www.yuweizhan.cn/articles/2018/06/30/1573384291335.html)
