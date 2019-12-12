@@ -34,8 +34,8 @@ yuwei的个人博客
 ### 热门
 
 * [李宏毅机器学习笔记-2 （Regression：Case Study ；回归：案例研究）](https://www.yuweizhan.cn/articles/2018/06/27/1573384297509.html)
-* [Flask入门-搭建图书管理项目](https://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
 * [Pandas入门简介](https://www.yuweizhan.cn/articles/2017/10/26/1573384289236.html)
+* [Flask入门-搭建图书管理项目](https://www.yuweizhan.cn/articles/2018/09/16/1573384290845.html)
 * [django入门-搭建字数统计网站](https://www.yuweizhan.cn/articles/2018/09/02/1573384289968.html)
 * [梯度下降算法实战](https://www.yuweizhan.cn/articles/2018/06/30/1573384291335.html)
 * [李宏毅机器学习笔记-3 Classification,Logistic Regression](https://www.yuweizhan.cn/articles/2018/07/27/1573384296771.html)
